@@ -1,3 +1,3 @@
-echo 'Dentro de Build'
-echo 'Dentro de Build' > build.txt
+echo 'Dentro de Build script'
+echo 'Dentro de Build script' >> buildscript.txt
 
